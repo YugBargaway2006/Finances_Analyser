@@ -1,5 +1,5 @@
 # FINANCIAL TRACKER
-#### Video Demo:  [<URL HERE>](https://youtu.be/6UcSXI5j6vQ)
+#### Video Demo: (https://youtu.be/6UcSXI5j6vQ)
 #### Description: This program takes input through google forms of financial information of a person. It, then, converts it into database file. The program helps view complete data and also on certain queries regarding timeframe, credit/debit, etc. The Program also analyses it by printing sum of data using certain queries. It also contains the function to find unusual high transactions.
 
 ## TABLE OF CONTENTS:
