@@ -10,6 +10,8 @@
 ### 5. Maintainer
 
 ### 1. Requirement Modules:
+You can run the program by running Financial_Analyser.py on your system.
+Do first create a google form and link the .csv file for proper functioning of the program.
 The following python modules are required for proper functioning and execution of the program,
 - Pandas: For Handling csv database and its queries
 - Colorama: Required for coloring letters in terminal window
@@ -20,7 +22,7 @@ The following python modules are required for proper functioning and execution o
 - os: Handles creation and deletion of files in the directory
 
 Sqlite3 and OS modules comes in-built with the python module.
-All other modules can be downloaded by running Requirements.bat once.
+All other modules can be downloaded by running Requirements.py once.
 
 
 ### 2. Setting Initial Google Form:
